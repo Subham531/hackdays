@@ -9,13 +9,13 @@ def load_places():
         place["combined_text"] = build_rich_text(place)  
     return places
 
-def recommend(query, budget=None, month=None, types=None):
+def recommend(query,state=None, budget=None, month=None, types=None):
     places = load_places()
-    candidates = filter_candidates(places, budget=budget, month=month, types=types)
+    candidates = filter_candidates(places, state=state,budget=budget, month=month, types=types)
     ranked = rank_places(query, candidates)
     return ranked[:5]
 
-results = recommend("historical heritage tour")
+results = recommend("river rafting",state='Assam')
 
 for r in results:
-    print(r["name"], r["final_score"])
+    print(r["name"], r["state"],r["final_score"])
