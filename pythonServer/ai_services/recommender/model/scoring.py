@@ -2,7 +2,7 @@ def compute_eco_score(place):
     eco_type_weight = {
         "eco": 1.0, "nature": 0.8, "wildlife": 0.75,
         "adventure": 0.5, "cultural": 0.4,
-        "historical": 0.3, "religious": 0.3, "leisure": 0.35
+        "historical": 0.3, "religious": 0.3,"heritage":0.3, "leisure": 0.35
     }
 
     eco_activity_weight = {
