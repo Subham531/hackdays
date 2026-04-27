@@ -1,0 +1,3555 @@
+[
+  {
+    "place_id": "majuli_01",
+    "name": "Majuli",
+    "state": "Assam",
+    "types": [
+      "eco",
+      "cultural"
+    ],
+    "activities": [
+      "cycling",
+      "bird watching",
+      "cultural tour"
+    ],
+    "description": "Majuli is the world's largest river island known for its eco-friendly lifestyle and rich Assamese culture.",
+    "budget_min": 500,
+    "budget_max": 2000,
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "combined_text": "Majuli eco-tourism sustainable travel green destination cultural heritage local traditions indigenous community activities include cycling, bird watching, cultural tour Majuli is the world's largest river island known for its eco-friendly lifestyle and rich Assamese culture. winter travel cold weather autumn season mild weather"
+  },
+  {
+    "place_id": "kaziranga_02",
+    "name": "Kaziranga National Park",
+    "state": "Assam",
+    "types": [
+      "wildlife",
+      "nature"
+    ],
+    "activities": [
+      "safari",
+      "photography"
+    ],
+    "description": "A UNESCO World Heritage Site famous for sheltering two-thirds of the world's great one-horned rhinoceroses.",
+    "budget_min": 1500,
+    "budget_max": 5000,
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr"
+    ],
+    "combined_text": "Kaziranga National Park wildlife sanctuary animal spotting nature reserve nature scenic landscape forest hills valley activities include safari, photography A UNESCO World Heritage Site famous for sheltering two-thirds of the world's great one-horned rhinoceroses. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "manas_03",
+    "name": "Manas National Park",
+    "state": "Assam",
+    "types": [
+      "wildlife",
+      "nature"
+    ],
+    "activities": [
+      "water sports",
+      "safari",
+      "bird watching"
+    ],
+    "description": "A biosphere reserve and UNESCO Heritage site offering dense jungles and sightings of tigers and elephants.",
+    "budget_min": 1200,
+    "budget_max": 4000,
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Manas National Park wildlife sanctuary animal spotting nature reserve nature scenic landscape forest hills valley activities include water sports, safari, bird watching A biosphere reserve and UNESCO Heritage site offering dense jungles and sightings of tigers and elephants. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "kamakhya_04",
+    "name": "Kamakhya Temple",
+    "state": "Assam",
+    "types": [
+      "religious",
+      "cultural"
+    ],
+    "activities": [
+      "religious tour",
+      "sightseeing"
+    ],
+    "description": "One of the oldest of the 51 Shakti Pithas, located on the Nilachal Hill in Guwahati.",
+    "budget_min": 200,
+    "budget_max": 1000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Kamakhya Temple religious pilgrimage sacred site temple monastery cultural heritage local traditions indigenous community activities include religious tour, sightseeing One of the oldest of the 51 Shakti Pithas, located on the Nilachal Hill in Guwahati. budget friendly low cost affordable winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "haflong_05",
+    "name": "Haflong",
+    "state": "Assam",
+    "types": [
+      "nature",
+      "leisure"
+    ],
+    "activities": [
+      "boating",
+      "trekking",
+      "picnicking"
+    ],
+    "description": "Assam's only hill station, characterized by rolling mountains, lush green valleys, and pristine lakes.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Haflong nature scenic landscape forest hills valley leisure relaxation sightseeing tourism activities include boating, trekking, picnicking Assam's only hill station, characterized by rolling mountains, lush green valleys, and pristine lakes. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "dibru_saikhowa_06",
+    "name": "Dibru-Saikhowa National Park",
+    "state": "Assam",
+    "types": [
+      "wildlife",
+      "eco"
+    ],
+    "activities": [
+      "boating",
+      "bird watching",
+      "camping"
+    ],
+    "description": "A national park renowned for its feral horses and vast wetlands.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Dibru-Saikhowa National Park wildlife sanctuary animal spotting nature reserve eco-tourism sustainable travel green destination activities include boating, bird watching, camping A national park renowned for its feral horses and vast wetlands. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "nameri_07",
+    "name": "Nameri National Park",
+    "state": "Assam",
+    "types": [
+      "adventure",
+      "nature"
+    ],
+    "activities": [
+      "water sports",
+      "trekking",
+      "camping"
+    ],
+    "description": "Nestled in the foothills of the Eastern Himalayas, known for its elephants and thrilling river activities.",
+    "budget_min": 1000,
+    "budget_max": 3500,
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Nameri National Park adventure activities outdoor exploration thrill nature scenic landscape forest hills valley activities include water sports, trekking, camping Nestled in the foothills of the Eastern Himalayas, known for its elephants and thrilling river activities. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "pobitora_08",
+    "name": "Pobitora Wildlife Sanctuary",
+    "state": "Assam",
+    "types": [
+      "wildlife",
+      "nature"
+    ],
+    "activities": [
+      "safari",
+      "bird watching"
+    ],
+    "description": "Known for having the highest density of one-horned rhinoceroses in the world.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Pobitora Wildlife Sanctuary wildlife sanctuary animal spotting nature reserve nature scenic landscape forest hills valley activities include safari, bird watching Known for having the highest density of one-horned rhinoceroses in the world. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "sivasagar_09",
+    "name": "Sivasagar",
+    "state": "Assam",
+    "types": [
+      "historical",
+      "cultural"
+    ],
+    "activities": [
+      "heritage tour",
+      "photography"
+    ],
+    "description": "The former capital of the Ahom Kingdom, featuring magnificent ancient palaces and temples.",
+    "budget_min": 500,
+    "budget_max": 2000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Sivasagar historical heritage ancient monuments history archaeology cultural heritage local traditions indigenous community activities include heritage tour, photography The former capital of the Ahom Kingdom, featuring magnificent ancient palaces and temples. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "orang_10",
+    "name": "Orang National Park",
+    "state": "Assam",
+    "types": [
+      "wildlife",
+      "nature"
+    ],
+    "activities": [
+      "safari",
+      "photography"
+    ],
+    "description": "Often called mini Kaziranga, known for rhinos, tigers, and a rich variety of fish.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Orang National Park wildlife sanctuary animal spotting nature reserve nature scenic landscape forest hills valley activities include safari, photography Often called mini Kaziranga, known for rhinos, tigers, and a rich variety of fish. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "tawang_11",
+    "name": "Tawang",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "religious",
+      "nature"
+    ],
+    "activities": [
+      "religious tour",
+      "sightseeing",
+      "cycling"
+    ],
+    "description": "Famous for the largest Buddhist monastery in India and breathtaking high-altitude landscapes.",
+    "budget_min": 1500,
+    "budget_max": 4000,
+    "best_months": [
+      "Mar",
+      "Apr",
+      "May",
+      "Sep",
+      "Oct"
+    ],
+    "combined_text": "Tawang religious pilgrimage sacred site temple monastery nature scenic landscape forest hills valley activities include religious tour, sightseeing, cycling Famous for the largest Buddhist monastery in India and breathtaking high-altitude landscapes. spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "ziro_12",
+    "name": "Ziro Valley",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "cultural",
+      "nature"
+    ],
+    "activities": [
+      "village tour",
+      "festival",
+      "trekking"
+    ],
+    "description": "A picturesque valley known for its lush pine hills, terraced rice fields, and the indigenous Apatani tribe.",
+    "budget_min": 1000,
+    "budget_max": 3500,
+    "best_months": [
+      "Feb",
+      "Mar",
+      "Apr",
+      "Sep",
+      "Oct"
+    ],
+    "combined_text": "Ziro Valley cultural heritage local traditions indigenous community nature scenic landscape forest hills valley activities include village tour, festival, trekking A picturesque valley known for its lush pine hills, terraced rice fields, and the indigenous Apatani tribe. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "namdapha_13",
+    "name": "Namdapha National Park",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "wildlife",
+      "adventure"
+    ],
+    "activities": [
+      "wildlife spotting",
+      "trekking",
+      "camping"
+    ],
+    "description": "A biodiversity hotspot and tiger reserve with diverse ecosystems ranging from tropical to alpine.",
+    "budget_min": 1200,
+    "budget_max": 4000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Namdapha National Park wildlife sanctuary animal spotting nature reserve adventure activities outdoor exploration thrill activities include wildlife spotting, trekking, camping A biodiversity hotspot and tiger reserve with diverse ecosystems ranging from tropical to alpine. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "bomdila_14",
+    "name": "Bomdila",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "nature",
+      "cultural"
+    ],
+    "activities": [
+      "farm tour",
+      "religious tour",
+      "photography"
+    ],
+    "description": "Offers brilliant landscape views of the snow-clad Himalayas alongside sprawling apple orchards.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Mar",
+      "Apr",
+      "May",
+      "Sep",
+      "Oct"
+    ],
+    "combined_text": "Bomdila nature scenic landscape forest hills valley cultural heritage local traditions indigenous community activities include farm tour, religious tour, photography Offers brilliant landscape views of the snow-clad Himalayas alongside sprawling apple orchards. spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "sela_pass_15",
+    "name": "Sela Pass",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "adventure",
+      "nature"
+    ],
+    "activities": [
+      "sightseeing",
+      "photography",
+      "road trip"
+    ],
+    "description": "A high-altitude mountain pass providing spectacular views and serving as the gateway to Tawang.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Mar",
+      "Apr",
+      "May",
+      "Oct",
+      "Nov"
+    ],
+    "combined_text": "Sela Pass adventure activities outdoor exploration thrill nature scenic landscape forest hills valley activities include sightseeing, photography, road trip A high-altitude mountain pass providing spectacular views and serving as the gateway to Tawang. spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "dirang_16",
+    "name": "Dirang",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "nature",
+      "cultural"
+    ],
+    "activities": [
+      "hot spring",
+      "trekking",
+      "bird watching"
+    ],
+    "description": "A charming valley town famous for its hot water springs and ancient dzongs.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Mar",
+      "Apr",
+      "May",
+      "Oct",
+      "Nov"
+    ],
+    "combined_text": "Dirang nature scenic landscape forest hills valley cultural heritage local traditions indigenous community activities include hot spring, trekking, bird watching A charming valley town famous for its hot water springs and ancient dzongs. spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "mechuka_17",
+    "name": "Mechuka",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "adventure",
+      "nature"
+    ],
+    "activities": [
+      "camping",
+      "trekking",
+      "photography"
+    ],
+    "description": "An offbeat destination known for its pristine beauty, snow-capped peaks, and the Siyom River.",
+    "budget_min": 1500,
+    "budget_max": 4000,
+    "best_months": [
+      "Mar",
+      "Apr",
+      "May",
+      "Oct",
+      "Nov"
+    ],
+    "combined_text": "Mechuka adventure activities outdoor exploration thrill nature scenic landscape forest hills valley activities include camping, trekking, photography An offbeat destination known for its pristine beauty, snow-capped peaks, and the Siyom River. spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "roing_18",
+    "name": "Roing",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "nature",
+      "historical"
+    ],
+    "activities": [
+      "sightseeing",
+      "heritage tour",
+      "trekking"
+    ],
+    "description": "Known for the serene Mehao Lake and the ancient Bhismaknagar Fort.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "combined_text": "Roing nature scenic landscape forest hills valley historical heritage ancient monuments history archaeology activities include sightseeing, heritage tour, trekking Known for the serene Mehao Lake and the ancient Bhismaknagar Fort. winter travel cold weather autumn season mild weather"
+  },
+  {
+    "place_id": "pasighat_19",
+    "name": "Pasighat",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "adventure",
+      "nature"
+    ],
+    "activities": [
+      "water sports",
+      "fishing",
+      "trekking"
+    ],
+    "description": "The oldest town of Arunachal Pradesh, situated on the banks of the mighty Siang River.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "combined_text": "Pasighat adventure activities outdoor exploration thrill nature scenic landscape forest hills valley activities include water sports, fishing, trekking The oldest town of Arunachal Pradesh, situated on the banks of the mighty Siang River. winter travel cold weather autumn season mild weather"
+  },
+  {
+    "place_id": "bhalukpong_20",
+    "name": "Bhalukpong",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "nature",
+      "adventure"
+    ],
+    "activities": [
+      "water sports",
+      "picnicking",
+      "trekking"
+    ],
+    "description": "A beautiful town bordering Assam, known for the Kameng River and orchid reserves.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Bhalukpong nature scenic landscape forest hills valley adventure activities outdoor exploration thrill activities include water sports, picnicking, trekking A beautiful town bordering Assam, known for the Kameng River and orchid reserves. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "dzukou_21",
+    "name": "Dzukou Valley",
+    "state": "Nagaland",
+    "types": [
+      "nature",
+      "adventure"
+    ],
+    "activities": [
+      "trekking",
+      "camping",
+      "botanical tour"
+    ],
+    "description": "Famous for its rolling hills, seasonal wildflowers, and incredibly scenic trekking trails.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ],
+    "combined_text": "Dzukou Valley nature scenic landscape forest hills valley adventure activities outdoor exploration thrill activities include trekking, camping, botanical tour Famous for its rolling hills, seasonal wildflowers, and incredibly scenic trekking trails. monsoon season lush green autumn season mild weather"
+  },
+  {
+    "place_id": "kisama_22",
+    "name": "Kisama Heritage Village",
+    "state": "Nagaland",
+    "types": [
+      "cultural",
+      "historical"
+    ],
+    "activities": [
+      "festival",
+      "heritage tour",
+      "cultural performance"
+    ],
+    "description": "The venue for the famous Hornbill Festival, designed to protect and promote traditional Naga culture.",
+    "budget_min": 500,
+    "budget_max": 2000,
+    "combined_text": "Kisama Heritage Village cultural heritage local traditions indigenous community historical heritage ancient monuments history archaeology activities include festival, heritage tour, cultural performance The venue for the famous Hornbill Festival, designed to protect and promote traditional Naga culture."
+  },
+  {
+    "place_id": "kohima_war_23",
+    "name": "Kohima War Cemetery",
+    "state": "Nagaland",
+    "types": [
+      "historical"
+    ],
+    "activities": [
+      "heritage tour",
+      "photography"
+    ],
+    "description": "A memorial dedicated to soldiers of the Allied Forces who died in the Second World War at Kohima.",
+    "budget_min": 200,
+    "budget_max": 1000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Kohima War Cemetery historical heritage ancient monuments history archaeology activities include heritage tour, photography A memorial dedicated to soldiers of the Allied Forces who died in the Second World War at Kohima. budget friendly low cost affordable winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "khonoma_24",
+    "name": "Khonoma Village",
+    "state": "Nagaland",
+    "types": [
+      "eco",
+      "historical"
+    ],
+    "activities": [
+      "village tour",
+      "nature walk",
+      "heritage tour"
+    ],
+    "description": "India's first green village, known for its terraced agriculture and deep-rooted conservation efforts.",
+    "budget_min": 1000,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Khonoma Village eco-tourism sustainable travel green destination historical heritage ancient monuments history archaeology activities include village tour, nature walk, heritage tour India's first green village, known for its terraced agriculture and deep-rooted conservation efforts. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "japfu_25",
+    "name": "Japfu Peak",
+    "state": "Nagaland",
+    "types": [
+      "adventure",
+      "nature"
+    ],
+    "activities": [
+      "trekking",
+      "bird watching"
+    ],
+    "description": "The second-highest peak in Nagaland offering panoramic views of the Dzukou Valley.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Japfu Peak adventure activities outdoor exploration thrill nature scenic landscape forest hills valley activities include trekking, bird watching The second-highest peak in Nagaland offering panoramic views of the Dzukou Valley. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "mokokchung_26",
+    "name": "Mokokchung",
+    "state": "Nagaland",
+    "types": [
+      "cultural",
+      "nature"
+    ],
+    "activities": [
+      "village tour",
+      "sightseeing",
+      "heritage tour"
+    ],
+    "description": "The cultural and intellectual center of the Ao Naga tribe, offering scenic views and rich traditions.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Mokokchung cultural heritage local traditions indigenous community nature scenic landscape forest hills valley activities include village tour, sightseeing, heritage tour The cultural and intellectual center of the Ao Naga tribe, offering scenic views and rich traditions. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "tuophema_27",
+    "name": "Tuophema Village",
+    "state": "Nagaland",
+    "types": [
+      "eco",
+      "cultural"
+    ],
+    "activities": [
+      "village tour",
+      "cultural performance"
+    ],
+    "description": "A tourist village offering an authentic Naga lifestyle experience in traditional huts.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Tuophema Village eco-tourism sustainable travel green destination cultural heritage local traditions indigenous community activities include village tour, cultural performance A tourist village offering an authentic Naga lifestyle experience in traditional huts. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "mon_28",
+    "name": "Mon",
+    "state": "Nagaland",
+    "types": [
+      "cultural",
+      "historical"
+    ],
+    "activities": [
+      "village tour",
+      "handicraft tour",
+      "sightseeing"
+    ],
+    "description": "The land of the Konyak Nagas, famous for their tattooed faces and traditional wood carving.",
+    "budget_min": 1200,
+    "budget_max": 3500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr"
+    ],
+    "combined_text": "Mon cultural heritage local traditions indigenous community historical heritage ancient monuments history archaeology activities include village tour, handicraft tour, sightseeing The land of the Konyak Nagas, famous for their tattooed faces and traditional wood carving. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "wokha_29",
+    "name": "Wokha",
+    "state": "Nagaland",
+    "types": [
+      "nature",
+      "wildlife"
+    ],
+    "activities": [
+      "bird watching",
+      "boating",
+      "trekking"
+    ],
+    "description": "The land of the Lotha tribe and famous for the Amur Falcon roosting site near Doyang Reservoir.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov"
+    ],
+    "combined_text": "Wokha nature scenic landscape forest hills valley wildlife sanctuary animal spotting nature reserve activities include bird watching, boating, trekking The land of the Lotha tribe and famous for the Amur Falcon roosting site near Doyang Reservoir. autumn season mild weather"
+  },
+  {
+    "place_id": "pfutsero_30",
+    "name": "Pfutsero",
+    "state": "Nagaland",
+    "types": [
+      "nature",
+      "leisure"
+    ],
+    "activities": [
+      "sightseeing",
+      "trekking",
+      "photography"
+    ],
+    "description": "The highest altitude town in Nagaland, known for its cold weather and stunning cherry blossoms.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Pfutsero nature scenic landscape forest hills valley leisure relaxation sightseeing tourism activities include sightseeing, trekking, photography The highest altitude town in Nagaland, known for its cold weather and stunning cherry blossoms. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "cherrapunji_31",
+    "name": "Cherrapunji (Sohra)",
+    "state": "Meghalaya",
+    "types": [
+      "nature",
+      "adventure"
+    ],
+    "activities": [
+      "sightseeing",
+      "caving",
+      "trekking"
+    ],
+    "description": "Historic wettest place on earth, famous for dramatic waterfalls, cliffs, and living root bridges.",
+    "budget_min": 1200,
+    "budget_max": 4000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Cherrapunji (Sohra) nature scenic landscape forest hills valley adventure activities outdoor exploration thrill activities include sightseeing, caving, trekking Historic wettest place on earth, famous for dramatic waterfalls, cliffs, and living root bridges. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "dawki_32",
+    "name": "Dawki",
+    "state": "Meghalaya",
+    "types": [
+      "nature",
+      "adventure"
+    ],
+    "activities": [
+      "boating",
+      "adventure sports",
+      "camping"
+    ],
+    "description": "A border town acclaimed for the crystal-clear Umngot River where boats seem to float on air.",
+    "budget_min": 1000,
+    "budget_max": 3500,
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr"
+    ],
+    "combined_text": "Dawki nature scenic landscape forest hills valley adventure activities outdoor exploration thrill activities include boating, adventure sports, camping A border town acclaimed for the crystal-clear Umngot River where boats seem to float on air. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "mawlynnong_33",
+    "name": "Mawlynnong",
+    "state": "Meghalaya",
+    "types": [
+      "eco",
+      "cultural"
+    ],
+    "activities": [
+      "village tour",
+      "nature walk"
+    ],
+    "description": "Dubbed Asia's cleanest village, it is a model for eco-friendly living and community-driven sanitation.",
+    "budget_min": 1000,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Mawlynnong eco-tourism sustainable travel green destination cultural heritage local traditions indigenous community activities include village tour, nature walk Dubbed Asia's cleanest village, it is a model for eco-friendly living and community-driven sanitation. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "nongriat_34",
+    "name": "Nongriat Double Decker Root Bridge",
+    "state": "Meghalaya",
+    "types": [
+      "adventure",
+      "eco"
+    ],
+    "activities": [
+      "trekking",
+      "swimming",
+      "photography"
+    ],
+    "description": "A spectacular natural wonder requiring a challenging hike to view bridges formed entirely of tree roots.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Nongriat Double Decker Root Bridge adventure activities outdoor exploration thrill eco-tourism sustainable travel green destination activities include trekking, swimming, photography A spectacular natural wonder requiring a challenging hike to view bridges formed entirely of tree roots. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "laitlum_35",
+    "name": "Laitlum Canyon",
+    "state": "Meghalaya",
+    "types": [
+      "nature",
+      "leisure"
+    ],
+    "activities": [
+      "trekking",
+      "sightseeing",
+      "photography"
+    ],
+    "description": "Translating to 'End of the Hills', this canyon offers dramatic, sweeping views of misty valleys.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr"
+    ],
+    "combined_text": "Laitlum Canyon nature scenic landscape forest hills valley leisure relaxation sightseeing tourism activities include trekking, sightseeing, photography Translating to 'End of the Hills', this canyon offers dramatic, sweeping views of misty valleys. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "umiam_36",
+    "name": "Umiam Lake",
+    "state": "Meghalaya",
+    "types": [
+      "nature",
+      "leisure"
+    ],
+    "activities": [
+      "water sports",
+      "boating",
+      "picnicking"
+    ],
+    "description": "A sprawling man-made reservoir surrounded by sylvan hills, acting as a gateway to Shillong.",
+    "budget_min": 500,
+    "budget_max": 3000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr"
+    ],
+    "combined_text": "Umiam Lake nature scenic landscape forest hills valley leisure relaxation sightseeing tourism activities include water sports, boating, picnicking A sprawling man-made reservoir surrounded by sylvan hills, acting as a gateway to Shillong. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "mawsynram_37",
+    "name": "Mawsynram",
+    "state": "Meghalaya",
+    "types": [
+      "nature",
+      "adventure"
+    ],
+    "activities": [
+      "caving",
+      "trekking",
+      "sightseeing"
+    ],
+    "description": "Currently holding the record for the highest average rainfall globally, featuring lush green landscapes.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Sep",
+      "Oct",
+      "Nov"
+    ],
+    "combined_text": "Mawsynram nature scenic landscape forest hills valley adventure activities outdoor exploration thrill activities include caving, trekking, sightseeing Currently holding the record for the highest average rainfall globally, featuring lush green landscapes. autumn season mild weather"
+  },
+  {
+    "place_id": "krang_suri_38",
+    "name": "Krag Suri Falls",
+    "state": "Meghalaya",
+    "types": [
+      "nature",
+      "leisure"
+    ],
+    "activities": [
+      "swimming",
+      "photography",
+      "camping"
+    ],
+    "description": "One of the most aesthetically pleasing waterfalls in Meghalaya, known for its deep blue pool.",
+    "budget_min": 500,
+    "budget_max": 2000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Krag Suri Falls nature scenic landscape forest hills valley leisure relaxation sightseeing tourism activities include swimming, photography, camping One of the most aesthetically pleasing waterfalls in Meghalaya, known for its deep blue pool. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "balpakram_39",
+    "name": "Balpakram National Park",
+    "state": "Meghalaya",
+    "types": [
+      "wildlife",
+      "nature"
+    ],
+    "activities": [
+      "wildlife spotting",
+      "trekking",
+      "sightseeing"
+    ],
+    "description": "A pristine national park in the Garo Hills, known for its deep gorge and rich biodiversity.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Balpakram National Park wildlife sanctuary animal spotting nature reserve nature scenic landscape forest hills valley activities include wildlife spotting, trekking, sightseeing A pristine national park in the Garo Hills, known for its deep gorge and rich biodiversity. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "nokrek_40",
+    "name": "Nokrek National Park",
+    "state": "Meghalaya",
+    "types": [
+      "wildlife",
+      "eco"
+    ],
+    "activities": [
+      "trekking",
+      "bird watching",
+      "botanical tour"
+    ],
+    "description": "A UNESCO biosphere reserve protecting the red panda and wild Asian elephants.",
+    "budget_min": 1000,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Nokrek National Park wildlife sanctuary animal spotting nature reserve eco-tourism sustainable travel green destination activities include trekking, bird watching, botanical tour A UNESCO biosphere reserve protecting the red panda and wild Asian elephants. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "gangtok_41",
+    "name": "Gangtok",
+    "state": "Sikkim",
+    "types": [
+      "leisure",
+      "cultural"
+    ],
+    "activities": [
+      "religious tour",
+      "cable car",
+      "shopping"
+    ],
+    "description": "The capital of Sikkim, offering stunning views of Mt. Kanchenjunga and vibrant Tibetan culture.",
+    "budget_min": 1500,
+    "budget_max": 5000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Mar",
+      "Apr",
+      "May"
+    ],
+    "combined_text": "Gangtok leisure relaxation sightseeing tourism cultural heritage local traditions indigenous community activities include religious tour, cable car, shopping The capital of Sikkim, offering stunning views of Mt. Kanchenjunga and vibrant Tibetan culture. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "tsomgo_42",
+    "name": "Tsomgo Lake",
+    "state": "Sikkim",
+    "types": [
+      "nature",
+      "adventure"
+    ],
+    "activities": [
+      "animal ride",
+      "photography",
+      "sightseeing"
+    ],
+    "description": "A spectacular glacial lake situated at a high altitude, changing colors with the seasons.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
+    "combined_text": "Tsomgo Lake nature scenic landscape forest hills valley adventure activities outdoor exploration thrill activities include animal ride, photography, sightseeing A spectacular glacial lake situated at a high altitude, changing colors with the seasons. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "nathula_43",
+    "name": "Nathula Pass",
+    "state": "Sikkim",
+    "types": [
+      "historical",
+      "nature"
+    ],
+    "activities": [
+      "sightseeing",
+      "photography",
+      "snow sports"
+    ],
+    "description": "A mountain pass on the Indo-China border that was once a part of the ancient Silk Route.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct",
+      "Nov"
+    ],
+    "combined_text": "Nathula Pass historical heritage ancient monuments history archaeology nature scenic landscape forest hills valley activities include sightseeing, photography, snow sports A mountain pass on the Indo-China border that was once a part of the ancient Silk Route. spring season pleasant weather monsoon season lush green autumn season mild weather"
+  },
+  {
+    "place_id": "pelling_44",
+    "name": "Pelling",
+    "state": "Sikkim",
+    "types": [
+      "nature",
+      "leisure"
+    ],
+    "activities": [
+      "sightseeing",
+      "religious tour"
+    ],
+    "description": "A serene town providing the closest and most breathtaking views of the Kanchenjunga range.",
+    "budget_min": 1200,
+    "budget_max": 4000,
+    "best_months": [
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
+    "combined_text": "Pelling nature scenic landscape forest hills valley leisure relaxation sightseeing tourism activities include sightseeing, religious tour A serene town providing the closest and most breathtaking views of the Kanchenjunga range. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "lachung_45",
+    "name": "Lachung",
+    "state": "Sikkim",
+    "types": [
+      "nature",
+      "adventure"
+    ],
+    "activities": [
+      "farm tour",
+      "nature walk",
+      "trekking"
+    ],
+    "description": "A picturesque mountain village in North Sikkim serving as the base for Yumthang Valley.",
+    "budget_min": 1500,
+    "budget_max": 4500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Mar",
+      "Apr",
+      "May"
+    ],
+    "combined_text": "Lachung nature scenic landscape forest hills valley adventure activities outdoor exploration thrill activities include farm tour, nature walk, trekking A picturesque mountain village in North Sikkim serving as the base for Yumthang Valley. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "lachen_46",
+    "name": "Lachen",
+    "state": "Sikkim",
+    "types": [
+      "nature",
+      "adventure"
+    ],
+    "activities": [
+      "trekking",
+      "religious tour",
+      "wildlife spotting"
+    ],
+    "description": "A base camp for Gurudongmar Lake, offering rugged terrain and pristine alpine views.",
+    "budget_min": 1500,
+    "budget_max": 4500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Mar",
+      "Apr",
+      "May"
+    ],
+    "combined_text": "Lachen nature scenic landscape forest hills valley adventure activities outdoor exploration thrill activities include trekking, religious tour, wildlife spotting A base camp for Gurudongmar Lake, offering rugged terrain and pristine alpine views. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "yumthang_47",
+    "name": "Yumthang Valley",
+    "state": "Sikkim",
+    "types": [
+      "nature",
+      "eco"
+    ],
+    "activities": [
+      "hot spring",
+      "botanical tour",
+      "photography"
+    ],
+    "description": "Also known as the Valley of Flowers of the East, surrounded by snow-capped mountains.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun"
+    ],
+    "combined_text": "Yumthang Valley nature scenic landscape forest hills valley eco-tourism sustainable travel green destination activities include hot spring, botanical tour, photography Also known as the Valley of Flowers of the East, surrounded by snow-capped mountains. winter travel cold weather spring season pleasant weather monsoon season lush green"
+  },
+  {
+    "place_id": "gurudongmar_48",
+    "name": "Gurudongmar Lake",
+    "state": "Sikkim",
+    "types": [
+      "nature",
+      "religious"
+    ],
+    "activities": [
+      "sightseeing",
+      "photography",
+      "adventure sports"
+    ],
+    "description": "One of the highest lakes in the world, considered sacred by Buddhists, Sikhs, and Hindus.",
+    "budget_min": 1500,
+    "budget_max": 3500,
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Mar",
+      "Apr",
+      "May"
+    ],
+    "combined_text": "Gurudongmar Lake nature scenic landscape forest hills valley religious pilgrimage sacred site temple monastery activities include sightseeing, photography, adventure sports One of the highest lakes in the world, considered sacred by Buddhists, Sikhs, and Hindus. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "ravangla_49",
+    "name": "Ravangla",
+    "state": "Sikkim",
+    "types": [
+      "religious",
+      "leisure"
+    ],
+    "activities": [
+      "religious tour",
+      "bird watching",
+      "hot spring"
+    ],
+    "description": "Known for the magnificent Buddha Park and undisturbed views of the Himalayas.",
+    "budget_min": 1000,
+    "budget_max": 3500,
+    "best_months": [
+      "Sep",
+      "Oct",
+      "Nov",
+      "Mar",
+      "Apr",
+      "May"
+    ],
+    "combined_text": "Ravangla religious pilgrimage sacred site temple monastery leisure relaxation sightseeing tourism activities include religious tour, bird watching, hot spring Known for the magnificent Buddha Park and undisturbed views of the Himalayas. spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "namchi_50",
+    "name": "Namchi",
+    "state": "Sikkim",
+    "types": [
+      "cultural",
+      "religious"
+    ],
+    "activities": [
+      "religious tour",
+      "cable car"
+    ],
+    "description": "The cultural capital of Sikkim featuring replicas of the Char Dham pilgrimage sites.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Mar",
+      "Apr",
+      "May",
+      "Sep",
+      "Oct",
+      "Nov"
+    ],
+    "combined_text": "Namchi cultural heritage local traditions indigenous community religious pilgrimage sacred site temple monastery activities include religious tour, cable car The cultural capital of Sikkim featuring replicas of the Char Dham pilgrimage sites. spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "loktak_51",
+    "name": "Loktak Lake",
+    "state": "Manipur",
+    "types": [
+      "nature",
+      "eco"
+    ],
+    "activities": [
+      "boating",
+      "wildlife spotting",
+      "sightseeing"
+    ],
+    "description": "The largest freshwater lake in Northeast India, famous for its circular floating phumdis.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Loktak Lake nature scenic landscape forest hills valley eco-tourism sustainable travel green destination activities include boating, wildlife spotting, sightseeing The largest freshwater lake in Northeast India, famous for its circular floating phumdis. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "kangla_52",
+    "name": "Kangla Fort",
+    "state": "Manipur",
+    "types": [
+      "historical",
+      "cultural"
+    ],
+    "activities": [
+      "heritage tour",
+      "photography"
+    ],
+    "description": "The old palace of the Kingdom of Manipur, rich in history, archaeology, and local mythology.",
+    "budget_min": 200,
+    "budget_max": 1000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Kangla Fort historical heritage ancient monuments history archaeology cultural heritage local traditions indigenous community activities include heritage tour, photography The old palace of the Kingdom of Manipur, rich in history, archaeology, and local mythology. budget friendly low cost affordable winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "shirui_53",
+    "name": "Shirui Hills",
+    "state": "Manipur",
+    "types": [
+      "nature",
+      "adventure"
+    ],
+    "activities": [
+      "trekking",
+      "botanical tour",
+      "camping"
+    ],
+    "description": "Famous for the rare Shirui Lily flower which blooms only on the peak of this hill.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Apr",
+      "May",
+      "Jun"
+    ],
+    "combined_text": "Shirui Hills nature scenic landscape forest hills valley adventure activities outdoor exploration thrill activities include trekking, botanical tour, camping Famous for the rare Shirui Lily flower which blooms only on the peak of this hill. spring season pleasant weather monsoon season lush green"
+  },
+  {
+    "place_id": "andro_54",
+    "name": "Andro Village",
+    "state": "Manipur",
+    "types": [
+      "cultural",
+      "historical"
+    ],
+    "activities": [
+      "handicraft tour",
+      "heritage tour",
+      "village tour"
+    ],
+    "description": "An ancient village known for its unique traditional pottery and the cultural heritage complex.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Andro Village cultural heritage local traditions indigenous community historical heritage ancient monuments history archaeology activities include handicraft tour, heritage tour, village tour An ancient village known for its unique traditional pottery and the cultural heritage complex. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "khongjom_55",
+    "name": "Khongjom War Memorial",
+    "state": "Manipur",
+    "types": [
+      "historical"
+    ],
+    "activities": [
+      "sightseeing",
+      "heritage tour"
+    ],
+    "description": "A tribute to the martyrs of the historic Anglo-Manipuri War of 1891.",
+    "budget_min": 200,
+    "budget_max": 1000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Khongjom War Memorial historical heritage ancient monuments history archaeology activities include sightseeing, heritage tour A tribute to the martyrs of the historic Anglo-Manipuri War of 1891. budget friendly low cost affordable winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "reiek_56",
+    "name": "Reiek Tlang",
+    "state": "Mizoram",
+    "types": [
+      "nature",
+      "adventure"
+    ],
+    "activities": [
+      "trekking",
+      "village tour",
+      "caving"
+    ],
+    "description": "A picturesque hill offering panoramic views of Aizawl and a model Mizo heritage village.",
+    "budget_min": 500,
+    "budget_max": 2000,
+    "best_months": [
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Reiek Tlang nature scenic landscape forest hills valley adventure activities outdoor exploration thrill activities include trekking, village tour, caving A picturesque hill offering panoramic views of Aizawl and a model Mizo heritage village. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "champhai_57",
+    "name": "Champhai",
+    "state": "Mizoram",
+    "types": [
+      "nature",
+      "cultural"
+    ],
+    "activities": [
+      "farm tour",
+      "trekking",
+      "heritage tour"
+    ],
+    "description": "A vibrant commercial town known as the Rice Bowl of Mizoram, offering stunning hilly terrain.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Champhai nature scenic landscape forest hills valley cultural heritage local traditions indigenous community activities include farm tour, trekking, heritage tour A vibrant commercial town known as the Rice Bowl of Mizoram, offering stunning hilly terrain. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "vantawng_58",
+    "name": "Vantawng Falls",
+    "state": "Mizoram",
+    "types": [
+      "nature",
+      "leisure"
+    ],
+    "activities": [
+      "sightseeing",
+      "photography",
+      "picnicking"
+    ],
+    "description": "The highest uninterrupted waterfall in Mizoram, surrounded by thick, lush bamboo forests.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan"
+    ],
+    "combined_text": "Vantawng Falls nature scenic landscape forest hills valley leisure relaxation sightseeing tourism activities include sightseeing, photography, picnicking The highest uninterrupted waterfall in Mizoram, surrounded by thick, lush bamboo forests. winter travel cold weather autumn season mild weather"
+  },
+  {
+    "place_id": "unakoti_59",
+    "name": "Unakoti",
+    "state": "Tripura",
+    "types": [
+      "historical",
+      "religious"
+    ],
+    "activities": [
+      "heritage tour",
+      "trekking",
+      "photography"
+    ],
+    "description": "An ancient pilgrimage center with massive rock-cut sculptures and stone images of Hindu deities.",
+    "budget_min": 500,
+    "budget_max": 2000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Unakoti historical heritage ancient monuments history archaeology religious pilgrimage sacred site temple monastery activities include heritage tour, trekking, photography An ancient pilgrimage center with massive rock-cut sculptures and stone images of Hindu deities. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "neermahal_60",
+    "name": "Neermahal",
+    "state": "Tripura",
+    "types": [
+      "historical",
+      "leisure"
+    ],
+    "activities": [
+      "boating",
+      "heritage tour",
+      "entertainment"
+    ],
+    "description": "A stunning water palace built in the middle of Rudrasagar Lake, showcasing Hindu and Islamic architecture.",
+    "budget_min": 500,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Neermahal historical heritage ancient monuments history archaeology leisure relaxation sightseeing tourism activities include boating, heritage tour, entertainment A stunning water palace built in the middle of Rudrasagar Lake, showcasing Hindu and Islamic architecture. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "hajo_61",
+    "name": "Hajo",
+    "state": "Assam",
+    "types": [
+      "religious",
+      "cultural"
+    ],
+    "activities": [
+      "religious tour",
+      "heritage tour",
+      "sightseeing"
+    ],
+    "description": "An ancient pilgrimage center for three religions: Hinduism, Buddhism, and Islam.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Hajo religious pilgrimage sacred site temple monastery cultural heritage local traditions indigenous community activities include religious tour, heritage tour, sightseeing An ancient pilgrimage center for three religions: Hinduism, Buddhism, and Islam. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "umananda_62",
+    "name": "Umananda Island",
+    "state": "Assam",
+    "types": [
+      "religious",
+      "nature"
+    ],
+    "activities": [
+      "religious tour",
+      "boating",
+      "wildlife spotting"
+    ],
+    "description": "The smallest inhabited river island in the world, known for its Shiva temple and golden langurs.",
+    "budget_min": 300,
+    "budget_max": 1000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Umananda Island religious pilgrimage sacred site temple monastery nature scenic landscape forest hills valley activities include religious tour, boating, wildlife spotting The smallest inhabited river island in the world, known for its Shiva temple and golden langurs. budget friendly low cost affordable winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "digboi_63",
+    "name": "Digboi",
+    "state": "Assam",
+    "types": [
+      "historical",
+      "leisure"
+    ],
+    "activities": [
+      "heritage tour",
+      "sightseeing",
+      "photography"
+    ],
+    "description": "The Oil City of Assam, featuring the oldest operating oil well and refinery in Asia.",
+    "budget_min": 1000,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Digboi historical heritage ancient monuments history archaeology leisure relaxation sightseeing tourism activities include heritage tour, sightseeing, photography The Oil City of Assam, featuring the oldest operating oil well and refinery in Asia. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "sualkuchi_64",
+    "name": "Sualkuchi",
+    "state": "Assam",
+    "types": [
+      "cultural",
+      "eco"
+    ],
+    "activities": [
+      "village tour",
+      "shopping",
+      "handicraft tour"
+    ],
+    "description": "The textile center of Assam, famous for producing high-quality Muga and Pat silk.",
+    "budget_min": 500,
+    "budget_max": 3000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Sualkuchi cultural heritage local traditions indigenous community eco-tourism sustainable travel green destination activities include village tour, shopping, handicraft tour The textile center of Assam, famous for producing high-quality Muga and Pat silk. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "dehing_patkai_65",
+    "name": "Dehing Patkai National Park",
+    "state": "Assam",
+    "types": [
+      "wildlife",
+      "eco"
+    ],
+    "activities": [
+      "safari",
+      "bird watching",
+      "trekking"
+    ],
+    "description": "Known as the Amazon of the East, it is the only rainforest in Assam with rich flora and fauna.",
+    "budget_min": 1200,
+    "budget_max": 3500,
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Dehing Patkai National Park wildlife sanctuary animal spotting nature reserve eco-tourism sustainable travel green destination activities include safari, bird watching, trekking Known as the Amazon of the East, it is the only rainforest in Assam with rich flora and fauna. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "tezpur_66",
+    "name": "Tezpur",
+    "state": "Assam",
+    "types": [
+      "historical",
+      "leisure"
+    ],
+    "activities": [
+      "heritage tour",
+      "sightseeing",
+      "park visit"
+    ],
+    "description": "The City of Eternal Romance, rich in ancient mythology, ruins, and scenic parks along the Brahmaputra.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Tezpur historical heritage ancient monuments history archaeology leisure relaxation sightseeing tourism activities include heritage tour, sightseeing, park visit The City of Eternal Romance, rich in ancient mythology, ruins, and scenic parks along the Brahmaputra. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "mayong_67",
+    "name": "Mayong",
+    "state": "Assam",
+    "types": [
+      "cultural",
+      "historical"
+    ],
+    "activities": [
+      "village tour",
+      "heritage tour",
+      "museum visit"
+    ],
+    "description": "A mysterious village in Assam historically famous as the cradle of black magic and sorcery.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Mayong cultural heritage local traditions indigenous community historical heritage ancient monuments history archaeology activities include village tour, heritage tour, museum visit A mysterious village in Assam historically famous as the cradle of black magic and sorcery. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "itanagar_68",
+    "name": "Itanagar",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "historical",
+      "cultural"
+    ],
+    "activities": [
+      "heritage tour",
+      "museum visit",
+      "sightseeing"
+    ],
+    "description": "The capital of Arunachal Pradesh, home to the historical Ita Fort and vibrant tribal culture.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Itanagar historical heritage ancient monuments history archaeology cultural heritage local traditions indigenous community activities include heritage tour, museum visit, sightseeing The capital of Arunachal Pradesh, home to the historical Ita Fort and vibrant tribal culture. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "nuranang_69",
+    "name": "Nuranang Falls",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "nature",
+      "leisure"
+    ],
+    "activities": [
+      "sightseeing",
+      "photography"
+    ],
+    "description": "A stunning and relatively undiscovered 100-meter high waterfall located in the Tawang district.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Mar",
+      "Apr",
+      "May",
+      "Sep",
+      "Oct",
+      "Nov"
+    ],
+    "combined_text": "Nuranang Falls nature scenic landscape forest hills valley leisure relaxation sightseeing tourism activities include sightseeing, photography A stunning and relatively undiscovered 100-meter high waterfall located in the Tawang district. spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "aalo_70",
+    "name": "Aalo",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "nature",
+      "cultural"
+    ],
+    "activities": [
+      "trekking",
+      "village tour",
+      "angling"
+    ],
+    "description": "A scenic town situated at the confluence of Sipu and Yomgo rivers, known for its orange orchards.",
+    "budget_min": 1000,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Aalo nature scenic landscape forest hills valley cultural heritage local traditions indigenous community activities include trekking, village tour, angling A scenic town situated at the confluence of Sipu and Yomgo rivers, known for its orange orchards. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "anini_71",
+    "name": "Anini",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "adventure",
+      "nature"
+    ],
+    "activities": [
+      "trekking",
+      "photography",
+      "camping"
+    ],
+    "description": "A remote, misty town offering pristine landscapes, deep valleys, and raw natural beauty.",
+    "budget_min": 1500,
+    "budget_max": 4000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Mar",
+      "Apr",
+      "May"
+    ],
+    "combined_text": "Anini adventure activities outdoor exploration thrill nature scenic landscape forest hills valley activities include trekking, photography, camping A remote, misty town offering pristine landscapes, deep valleys, and raw natural beauty. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "pakke_72",
+    "name": "Pakke Tiger Reserve",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "wildlife",
+      "eco"
+    ],
+    "activities": [
+      "safari",
+      "bird watching",
+      "nature walk"
+    ],
+    "description": "A haven for hornbills and tigers, celebrated for its successful community-driven conservation models.",
+    "budget_min": 1200,
+    "budget_max": 3500,
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Pakke Tiger Reserve wildlife sanctuary animal spotting nature reserve eco-tourism sustainable travel green destination activities include safari, bird watching, nature walk A haven for hornbills and tigers, celebrated for its successful community-driven conservation models. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "shillong_peak_73",
+    "name": "Shillong Peak",
+    "state": "Meghalaya",
+    "types": [
+      "nature",
+      "leisure"
+    ],
+    "activities": [
+      "sightseeing",
+      "photography",
+      "trekking"
+    ],
+    "description": "The highest point in Meghalaya, offering a breathtaking panoramic view of the entire city and waterfalls.",
+    "budget_min": 300,
+    "budget_max": 1000,
+    "best_months": [
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr"
+    ],
+    "combined_text": "Shillong Peak nature scenic landscape forest hills valley leisure relaxation sightseeing tourism activities include sightseeing, photography, trekking The highest point in Meghalaya, offering a breathtaking panoramic view of the entire city and waterfalls. budget friendly low cost affordable winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "elephant_falls_74",
+    "name": "Elephant Falls",
+    "state": "Meghalaya",
+    "types": [
+      "nature",
+      "leisure"
+    ],
+    "activities": [
+      "sightseeing",
+      "photography"
+    ],
+    "description": "A popular three-tiered waterfall located just outside Shillong, accessible via scenic staircases.",
+    "budget_min": 200,
+    "budget_max": 800,
+    "best_months": [
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr"
+    ],
+    "combined_text": "Elephant Falls nature scenic landscape forest hills valley leisure relaxation sightseeing tourism activities include sightseeing, photography A popular three-tiered waterfall located just outside Shillong, accessible via scenic staircases. budget friendly low cost affordable winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "mawphlang_75",
+    "name": "Mawphlang Sacred Grove",
+    "state": "Meghalaya",
+    "types": [
+      "eco",
+      "cultural"
+    ],
+    "activities": [
+      "nature walk",
+      "heritage tour",
+      "photography"
+    ],
+    "description": "An ancient, deeply revered forest preserved by local tribes, rich in rare medicinal plants.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr"
+    ],
+    "combined_text": "Mawphlang Sacred Grove eco-tourism sustainable travel green destination cultural heritage local traditions indigenous community activities include nature walk, heritage tour, photography An ancient, deeply revered forest preserved by local tribes, rich in rare medicinal plants. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "nartiang_76",
+    "name": "Nartiang Monoliths",
+    "state": "Meghalaya",
+    "types": [
+      "historical",
+      "cultural"
+    ],
+    "activities": [
+      "heritage tour",
+      "sightseeing",
+      "photography"
+    ],
+    "description": "A massive collection of ancient megalithic stones erected to honor the old Jaintia kings.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Nartiang Monoliths historical heritage ancient monuments history archaeology cultural heritage local traditions indigenous community activities include heritage tour, sightseeing, photography A massive collection of ancient megalithic stones erected to honor the old Jaintia kings. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "nohkalikai_77",
+    "name": "Nohkalikai Falls",
+    "state": "Meghalaya",
+    "types": [
+      "nature",
+      "adventure"
+    ],
+    "activities": [
+      "sightseeing",
+      "trekking",
+      "photography"
+    ],
+    "description": "The tallest plunge waterfall in India, dropping spectacularly into a deep green pool below.",
+    "budget_min": 500,
+    "budget_max": 2000,
+    "best_months": [
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "combined_text": "Nohkalikai Falls nature scenic landscape forest hills valley adventure activities outdoor exploration thrill activities include sightseeing, trekking, photography The tallest plunge waterfall in India, dropping spectacularly into a deep green pool below. winter travel cold weather autumn season mild weather"
+  },
+  {
+    "place_id": "siju_78",
+    "name": "Siju Cave",
+    "state": "Meghalaya",
+    "types": [
+      "adventure",
+      "nature"
+    ],
+    "activities": [
+      "caving",
+      "exploration",
+      "photography"
+    ],
+    "description": "Known as the Bat Cave, it features impressive limestone stalactites, stalagmites, and deep river passages.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Siju Cave adventure activities outdoor exploration thrill nature scenic landscape forest hills valley activities include caving, exploration, photography Known as the Bat Cave, it features impressive limestone stalactites, stalagmites, and deep river passages. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "dimapur_79",
+    "name": "Kachari Ruins",
+    "state": "Nagaland",
+    "types": [
+      "historical",
+      "heritage"
+    ],
+    "activities": [
+      "archaeological tour",
+      "sightseeing",
+      "photography"
+    ],
+    "description": "Mushroom-domed pillars and ruins dating back to the 10th century Kachari civilization in Dimapur.",
+    "budget_min": 200,
+    "budget_max": 1000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Kachari Ruins historical heritage ancient monuments history archaeology historical heritage ancient monuments activities include archaeological tour, sightseeing, photography Mushroom-domed pillars and ruins dating back to the 10th century Kachari civilization in Dimapur. budget friendly low cost affordable winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "saramati_80",
+    "name": "Mount Saramati",
+    "state": "Nagaland",
+    "types": [
+      "adventure",
+      "nature"
+    ],
+    "activities": [
+      "trekking",
+      "camping",
+      "photography"
+    ],
+    "description": "The highest peak in Nagaland, located near the Myanmar border, offering a challenging alpine trek.",
+    "budget_min": 1500,
+    "budget_max": 4000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Mar",
+      "Apr",
+      "May"
+    ],
+    "combined_text": "Mount Saramati adventure activities outdoor exploration thrill nature scenic landscape forest hills valley activities include trekking, camping, photography The highest peak in Nagaland, located near the Myanmar border, offering a challenging alpine trek. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "benreu_81",
+    "name": "Benreu",
+    "state": "Nagaland",
+    "types": [
+      "eco",
+      "cultural"
+    ],
+    "activities": [
+      "village tour",
+      "nature walk",
+      "trekking"
+    ],
+    "description": "An unspoiled village of the Zeliang tribe, acting as a living museum of primitive Naga culture.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Benreu eco-tourism sustainable travel green destination cultural heritage local traditions indigenous community activities include village tour, nature walk, trekking An unspoiled village of the Zeliang tribe, acting as a living museum of primitive Naga culture. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "imphal_cemetery_82",
+    "name": "Imphal War Cemetery",
+    "state": "Manipur",
+    "types": [
+      "historical",
+      "leisure"
+    ],
+    "activities": [
+      "heritage tour",
+      "sightseeing"
+    ],
+    "description": "A well-maintained memorial honoring British and Indian soldiers who fell during the Battle of Imphal.",
+    "budget_min": 200,
+    "budget_max": 800,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Imphal War Cemetery historical heritage ancient monuments history archaeology leisure relaxation sightseeing tourism activities include heritage tour, sightseeing A well-maintained memorial honoring British and Indian soldiers who fell during the Battle of Imphal. budget friendly low cost affordable winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "keibul_lamjao_83",
+    "name": "Keibul Lamjao National Park",
+    "state": "Manipur",
+    "types": [
+      "wildlife",
+      "eco"
+    ],
+    "activities": [
+      "safari",
+      "wildlife spotting",
+      "boating"
+    ],
+    "description": "The only floating national park in the world, home to the endangered Sangai deer.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Keibul Lamjao National Park wildlife sanctuary animal spotting nature reserve eco-tourism sustainable travel green destination activities include safari, wildlife spotting, boating The only floating national park in the world, home to the endangered Sangai deer. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "ima_keithel_84",
+    "name": "Ima Keithel",
+    "state": "Manipur",
+    "types": [
+      "cultural",
+      "leisure"
+    ],
+    "activities": [
+      "shopping",
+      "cultural tour",
+      "photography"
+    ],
+    "description": "Asia's largest all-women market, a massive bustling hub of commerce and Manipuri tradition.",
+    "budget_min": 500,
+    "budget_max": 2000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Ima Keithel cultural heritage local traditions indigenous community leisure relaxation sightseeing tourism activities include shopping, cultural tour, photography Asia's largest all-women market, a massive bustling hub of commerce and Manipuri tradition. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "tharon_85",
+    "name": "Tharon Cave",
+    "state": "Manipur",
+    "types": [
+      "adventure",
+      "nature"
+    ],
+    "activities": [
+      "caving",
+      "trekking"
+    ],
+    "description": "A historically significant, deep cave network in Tamenglong, offering an exciting spelunking experience.",
+    "budget_min": 1000,
+    "budget_max": 2500,
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Tharon Cave adventure activities outdoor exploration thrill nature scenic landscape forest hills valley activities include caving, trekking A historically significant, deep cave network in Tamenglong, offering an exciting spelunking experience. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "phawngpui_86",
+    "name": "Phawngpui (Blue Mountain)",
+    "state": "Mizoram",
+    "types": [
+      "adventure",
+      "nature"
+    ],
+    "activities": [
+      "trekking",
+      "bird watching",
+      "camping"
+    ],
+    "description": "The highest peak in Mizoram, known for orchids, rhododendrons, and sweeping views of the blue-tinted hills.",
+    "budget_min": 1200,
+    "budget_max": 3500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Phawngpui (Blue Mountain) adventure activities outdoor exploration thrill nature scenic landscape forest hills valley activities include trekking, bird watching, camping The highest peak in Mizoram, known for orchids, rhododendrons, and sweeping views of the blue-tinted hills. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "dampa_87",
+    "name": "Dampa Tiger Reserve",
+    "state": "Mizoram",
+    "types": [
+      "wildlife",
+      "eco"
+    ],
+    "activities": [
+      "safari",
+      "trekking",
+      "bird watching"
+    ],
+    "description": "The largest wildlife sanctuary in Mizoram, featuring dense canopies and diverse endangered species.",
+    "budget_min": 1500,
+    "budget_max": 4000,
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Dampa Tiger Reserve wildlife sanctuary animal spotting nature reserve eco-tourism sustainable travel green destination activities include safari, trekking, bird watching The largest wildlife sanctuary in Mizoram, featuring dense canopies and diverse endangered species. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "aizawl_88",
+    "name": "Aizawl",
+    "state": "Mizoram",
+    "types": [
+      "leisure",
+      "cultural"
+    ],
+    "activities": [
+      "sightseeing",
+      "shopping",
+      "museum visit"
+    ],
+    "description": "The picturesque capital of Mizoram, beautifully perched on ridges overlooking the Tlawng river valley.",
+    "budget_min": 1000,
+    "budget_max": 4000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Aizawl leisure relaxation sightseeing tourism cultural heritage local traditions indigenous community activities include sightseeing, shopping, museum visit The picturesque capital of Mizoram, beautifully perched on ridges overlooking the Tlawng river valley. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "ujjayanta_89",
+    "name": "Ujjayanta Palace",
+    "state": "Tripura",
+    "types": [
+      "historical",
+      "cultural"
+    ],
+    "activities": [
+      "heritage tour",
+      "museum visit",
+      "photography"
+    ],
+    "description": "A magnificent royal palace in Agartala, now serving as the state museum of Tripura.",
+    "budget_min": 300,
+    "budget_max": 1500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Ujjayanta Palace historical heritage ancient monuments history archaeology cultural heritage local traditions indigenous community activities include heritage tour, museum visit, photography A magnificent royal palace in Agartala, now serving as the state museum of Tripura. budget friendly low cost affordable winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "sepahijala_90",
+    "name": "Sepahijala Wildlife Sanctuary",
+    "state": "Tripura",
+    "types": [
+      "wildlife",
+      "nature"
+    ],
+    "activities": [
+      "safari",
+      "boating",
+      "bird watching"
+    ],
+    "description": "A biodiversity hotspot known for its clouded leopards, spectacled monkeys, and a large botanical garden.",
+    "budget_min": 800,
+    "budget_max": 2000,
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Sepahijala Wildlife Sanctuary wildlife sanctuary animal spotting nature reserve nature scenic landscape forest hills valley activities include safari, boating, bird watching A biodiversity hotspot known for its clouded leopards, spectacled monkeys, and a large botanical garden. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "jampui_91",
+    "name": "Jampui Hills",
+    "state": "Tripura",
+    "types": [
+      "nature",
+      "eco"
+    ],
+    "activities": [
+      "trekking",
+      "village tour",
+      "photography"
+    ],
+    "description": "The highest hill range in Tripura, famous for its eternal spring-like climate and lush orange orchards.",
+    "budget_min": 1000,
+    "budget_max": 2500,
+    "best_months": [
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
+    "combined_text": "Jampui Hills nature scenic landscape forest hills valley eco-tourism sustainable travel green destination activities include trekking, village tour, photography The highest hill range in Tripura, famous for its eternal spring-like climate and lush orange orchards. winter travel cold weather autumn season mild weather"
+  },
+  {
+    "place_id": "tripura_sundari_92",
+    "name": "Tripura Sundari Temple",
+    "state": "Tripura",
+    "types": [
+      "religious",
+      "historical"
+    ],
+    "activities": [
+      "religious tour",
+      "sightseeing"
+    ],
+    "description": "One of the 51 Shakti Peethas, a deeply revered ancient temple built by Maharaja Dhanya Manikya.",
+    "budget_min": 200,
+    "budget_max": 1000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Tripura Sundari Temple religious pilgrimage sacred site temple monastery historical heritage ancient monuments history archaeology activities include religious tour, sightseeing One of the 51 Shakti Peethas, a deeply revered ancient temple built by Maharaja Dhanya Manikya. budget friendly low cost affordable winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "zuluk_93",
+    "name": "Zuluk",
+    "state": "Sikkim",
+    "types": [
+      "adventure",
+      "nature"
+    ],
+    "activities": [
+      "road trip",
+      "sightseeing",
+      "photography"
+    ],
+    "description": "A rugged, high-altitude hamlet in East Sikkim, known for the dizzying loops of the Old Silk Route.",
+    "budget_min": 1500,
+    "budget_max": 4000,
+    "best_months": [
+      "Mar",
+      "Apr",
+      "May",
+      "Oct",
+      "Nov"
+    ],
+    "combined_text": "Zuluk adventure activities outdoor exploration thrill nature scenic landscape forest hills valley activities include road trip, sightseeing, photography A rugged, high-altitude hamlet in East Sikkim, known for the dizzying loops of the Old Silk Route. spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "rumtek_94",
+    "name": "Rumtek Monastery",
+    "state": "Sikkim",
+    "types": [
+      "religious",
+      "cultural"
+    ],
+    "activities": [
+      "religious tour",
+      "meditation",
+      "photography"
+    ],
+    "description": "One of the largest and most significant Tibetan Buddhist monasteries in Sikkim, rich in murals and artifacts.",
+    "budget_min": 500,
+    "budget_max": 2000,
+    "best_months": [
+      "Mar",
+      "Apr",
+      "May",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
+    "combined_text": "Rumtek Monastery religious pilgrimage sacred site temple monastery cultural heritage local traditions indigenous community activities include religious tour, meditation, photography One of the largest and most significant Tibetan Buddhist monasteries in Sikkim, rich in murals and artifacts. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "khecheopalri_95",
+    "name": "Khecheopalri Lake",
+    "state": "Sikkim",
+    "types": [
+      "nature",
+      "religious"
+    ],
+    "activities": [
+      "religious tour",
+      "nature walk",
+      "sightseeing"
+    ],
+    "description": "A sacred, wish-fulfilling lake heavily venerated by Buddhists and Hindus, naturally hidden in a dense forest.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Mar",
+      "Apr",
+      "May",
+      "Oct",
+      "Nov"
+    ],
+    "combined_text": "Khecheopalri Lake nature scenic landscape forest hills valley religious pilgrimage sacred site temple monastery activities include religious tour, nature walk, sightseeing A sacred, wish-fulfilling lake heavily venerated by Buddhists and Hindus, naturally hidden in a dense forest. spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "yuksom_96",
+    "name": "Yuksom",
+    "state": "Sikkim",
+    "types": [
+      "historical",
+      "adventure"
+    ],
+    "activities": [
+      "trekking",
+      "heritage tour",
+      "village tour"
+    ],
+    "description": "The first capital of Sikkim, an important historical town that serves as the basecamp for the Dzongri trek.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Mar",
+      "Apr",
+      "May",
+      "Sep",
+      "Oct",
+      "Nov"
+    ],
+    "combined_text": "Yuksom historical heritage ancient monuments history archaeology adventure activities outdoor exploration thrill activities include trekking, heritage tour, village tour The first capital of Sikkim, an important historical town that serves as the basecamp for the Dzongri trek. spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "barsey_97",
+    "name": "Barsey Rhododendron Sanctuary",
+    "state": "Sikkim",
+    "types": [
+      "nature",
+      "eco"
+    ],
+    "activities": [
+      "trekking",
+      "botanical tour",
+      "camping"
+    ],
+    "description": "A spectacular sanctuary in Sikkim that transforms into a vibrant canvas of blooming rhododendrons in spring.",
+    "budget_min": 1200,
+    "budget_max": 3500,
+    "best_months": [
+      "Mar",
+      "Apr",
+      "May"
+    ],
+    "combined_text": "Barsey Rhododendron Sanctuary nature scenic landscape forest hills valley eco-tourism sustainable travel green destination activities include trekking, botanical tour, camping A spectacular sanctuary in Sikkim that transforms into a vibrant canvas of blooming rhododendrons in spring. spring season pleasant weather"
+  },
+  {
+    "place_id": "tuting_98",
+    "name": "Tuting",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "adventure",
+      "nature"
+    ],
+    "activities": [
+      "rafting",
+      "trekking",
+      "village tour"
+    ],
+    "description": "An offbeat paradise in Arunachal Pradesh offering extreme white water rafting on the Siang River.",
+    "budget_min": 2000,
+    "budget_max": 5000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Mar",
+      "Apr"
+    ],
+    "combined_text": "Tuting adventure activities outdoor exploration thrill nature scenic landscape forest hills valley activities include rafting, trekking, village tour An offbeat paradise in Arunachal Pradesh offering extreme white water rafting on the Siang River. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "daporijo_99",
+    "name": "Daporijo",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "cultural",
+      "nature"
+    ],
+    "activities": [
+      "village tour",
+      "trekking",
+      "caving"
+    ],
+    "description": "A quaint town surrounded by green hills, caves, and suspension bridges made of bamboo and cane.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Mar",
+      "Apr"
+    ],
+    "combined_text": "Daporijo cultural heritage local traditions indigenous community nature scenic landscape forest hills valley activities include village tour, trekking, caving A quaint town surrounded by green hills, caves, and suspension bridges made of bamboo and cane. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "longleng_100",
+    "name": "Longleng",
+    "state": "Nagaland",
+    "types": [
+      "cultural",
+      "adventure"
+    ],
+    "activities": [
+      "village tour",
+      "trekking",
+      "handicraft tour"
+    ],
+    "description": "A rugged and enchanting district in Nagaland, home to the Phom Nagas and their unique traditions.",
+    "budget_min": 1200,
+    "budget_max": 3500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Longleng cultural heritage local traditions indigenous community adventure activities outdoor exploration thrill activities include village tour, trekking, handicraft tour A rugged and enchanting district in Nagaland, home to the Phom Nagas and their unique traditions. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "jorhat_tea_101",
+    "name": "Jorhat Tea Estates",
+    "state": "Assam",
+    "types": [
+      "eco",
+      "leisure"
+    ],
+    "activities": [
+      "tea tasting",
+      "farm tour",
+      "photography"
+    ],
+    "description": "Known as the Tea Capital of the World, offering lush green estates and colonial-era bungalows.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May"
+    ],
+    "combined_text": "Jorhat Tea Estates eco-tourism sustainable travel green destination leisure relaxation sightseeing tourism activities include tea tasting, farm tour, photography Known as the Tea Capital of the World, offering lush green estates and colonial-era bungalows. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "temi_tea_102",
+    "name": "Temi Tea Garden",
+    "state": "Sikkim",
+    "types": [
+      "eco",
+      "nature"
+    ],
+    "activities": [
+      "tea tasting",
+      "photography",
+      "sightseeing"
+    ],
+    "description": "The only tea estate in Sikkim, celebrated for its organic tea and breathtaking views of Mt. Kanchenjunga.",
+    "budget_min": 1200,
+    "budget_max": 3500,
+    "best_months": [
+      "Mar",
+      "Apr",
+      "May",
+      "Oct",
+      "Nov"
+    ],
+    "combined_text": "Temi Tea Garden eco-tourism sustainable travel green destination nature scenic landscape forest hills valley activities include tea tasting, photography, sightseeing The only tea estate in Sikkim, celebrated for its organic tea and breathtaking views of Mt. Kanchenjunga. spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "tocklai_103",
+    "name": "Tocklai Tea Research Institute",
+    "state": "Assam",
+    "types": [
+      "educational",
+      "historical"
+    ],
+    "activities": [
+      "museum visit",
+      "heritage tour"
+    ],
+    "description": "One of the oldest and largest tea research stations in the world, delving into the science of tea.",
+    "budget_min": 200,
+    "budget_max": 1000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Tocklai Tea Research Institute educational historical heritage ancient monuments history archaeology activities include museum visit, heritage tour One of the oldest and largest tea research stations in the world, delving into the science of tea. budget friendly low cost affordable winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "monabarie_tea_104",
+    "name": "Monabarie Tea Estate",
+    "state": "Assam",
+    "types": [
+      "nature",
+      "leisure"
+    ],
+    "activities": [
+      "farm tour",
+      "photography"
+    ],
+    "description": "Recognized as the largest tea estate in Asia, featuring endless rolling plains of pristine tea bushes.",
+    "budget_min": 500,
+    "budget_max": 2000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Monabarie Tea Estate nature scenic landscape forest hills valley leisure relaxation sightseeing tourism activities include farm tour, photography Recognized as the largest tea estate in Asia, featuring endless rolling plains of pristine tea bushes. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "halmari_tea_105",
+    "name": "Halmari Tea Estate",
+    "state": "Assam",
+    "types": [
+      "eco",
+      "leisure"
+    ],
+    "activities": [
+      "tea tasting",
+      "factory tour"
+    ],
+    "description": "A prestigious tea garden renowned globally for producing some of the highest quality orthodox Assam teas.",
+    "budget_min": 1000,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Halmari Tea Estate eco-tourism sustainable travel green destination leisure relaxation sightseeing tourism activities include tea tasting, factory tour A prestigious tea garden renowned globally for producing some of the highest quality orthodox Assam teas. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "corramore_tea_106",
+    "name": "Corramore Tea Estate",
+    "state": "Assam",
+    "types": [
+      "nature",
+      "leisure"
+    ],
+    "activities": [
+      "farm tour",
+      "sightseeing"
+    ],
+    "description": "Founded by Robert Logan, offering spectacular views of the Kaziranga ranges and premium tea blends.",
+    "budget_min": 800,
+    "budget_max": 2000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Corramore Tea Estate nature scenic landscape forest hills valley leisure relaxation sightseeing tourism activities include farm tour, sightseeing Founded by Robert Logan, offering spectacular views of the Kaziranga ranges and premium tea blends. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "harmutty_tea_107",
+    "name": "Harmutty Tea Estate",
+    "state": "Assam",
+    "types": [
+      "nature",
+      "eco"
+    ],
+    "activities": [
+      "village tour",
+      "farm tour"
+    ],
+    "description": "A highly scenic tea estate framed by the backdrop of the Dikrong river and the Arunachal hills.",
+    "budget_min": 500,
+    "budget_max": 1800,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Harmutty Tea Estate nature scenic landscape forest hills valley eco-tourism sustainable travel green destination activities include village tour, farm tour A highly scenic tea estate framed by the backdrop of the Dikrong river and the Arunachal hills. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "margherita_108",
+    "name": "Margherita",
+    "state": "Assam",
+    "types": [
+      "historical",
+      "eco"
+    ],
+    "activities": [
+      "heritage tour",
+      "factory tour",
+      "museum visit"
+    ],
+    "description": "Famous for its historic coal mines, plywood factories, and surrounding sprawling tea gardens.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Margherita historical heritage ancient monuments history archaeology eco-tourism sustainable travel green destination activities include heritage tour, factory tour, museum visit Famous for its historic coal mines, plywood factories, and surrounding sprawling tea gardens. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "sonapur_tea_109",
+    "name": "Sonapur Tea Estate",
+    "state": "Assam",
+    "types": [
+      "nature",
+      "leisure"
+    ],
+    "activities": [
+      "farm tour",
+      "picnicking"
+    ],
+    "description": "Located just outside Guwahati, providing a quick, refreshing getaway into lush greenery and tea production.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Sonapur Tea Estate nature scenic landscape forest hills valley leisure relaxation sightseeing tourism activities include farm tour, picnicking Located just outside Guwahati, providing a quick, refreshing getaway into lush greenery and tea production. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "namsai_pagoda_110",
+    "name": "Namsai Golden Pagoda",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "religious",
+      "cultural"
+    ],
+    "activities": [
+      "religious tour",
+      "photography"
+    ],
+    "description": "A magnificent Burmese-style Buddhist temple set amidst beautifully landscaped gardens.",
+    "budget_min": 500,
+    "budget_max": 2000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Namsai Golden Pagoda religious pilgrimage sacred site temple monastery cultural heritage local traditions indigenous community activities include religious tour, photography A magnificent Burmese-style Buddhist temple set amidst beautifully landscaped gardens. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "dong_village_111",
+    "name": "Dong Village",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "adventure",
+      "nature"
+    ],
+    "activities": [
+      "trekking",
+      "sightseeing",
+      "camping"
+    ],
+    "description": "The easternmost village in India, renowned as the place that receives the very first rays of the sun in the country.",
+    "budget_min": 1500,
+    "budget_max": 4000,
+    "best_months": [
+      "Mar",
+      "Apr",
+      "May",
+      "Sep",
+      "Oct",
+      "Nov"
+    ],
+    "combined_text": "Dong Village adventure activities outdoor exploration thrill nature scenic landscape forest hills valley activities include trekking, sightseeing, camping The easternmost village in India, renowned as the place that receives the very first rays of the sun in the country. spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "mayodia_pass_112",
+    "name": "Mayodia Pass",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "adventure",
+      "nature"
+    ],
+    "activities": [
+      "snow sports",
+      "photography",
+      "road trip"
+    ],
+    "description": "A breathtaking high-altitude pass near Roing, famous for heavy snowfall and pristine white landscapes.",
+    "budget_min": 1500,
+    "budget_max": 3500,
+    "best_months": [
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "combined_text": "Mayodia Pass adventure activities outdoor exploration thrill nature scenic landscape forest hills valley activities include snow sports, photography, road trip A breathtaking high-altitude pass near Roing, famous for heavy snowfall and pristine white landscapes. winter travel cold weather"
+  },
+  {
+    "place_id": "malinithan_113",
+    "name": "Malinithan",
+    "state": "Arunachal Pradesh",
+    "types": [
+      "historical",
+      "religious"
+    ],
+    "activities": [
+      "archaeological tour",
+      "heritage tour"
+    ],
+    "description": "An archaeological site containing ruins of a Hindu temple dating back to the 14th century.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Malinithan historical heritage ancient monuments history archaeology religious pilgrimage sacred site temple monastery activities include archaeological tour, heritage tour An archaeological site containing ruins of a Hindu temple dating back to the 14th century. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "wards_lake_114",
+    "name": "Ward's Lake",
+    "state": "Meghalaya",
+    "types": [
+      "leisure",
+      "nature"
+    ],
+    "activities": [
+      "boating",
+      "picnicking",
+      "park visit"
+    ],
+    "description": "An artificial lake surrounded by a lush botanical garden and cobblestone pathways in the heart of Shillong.",
+    "budget_min": 200,
+    "budget_max": 1000,
+    "best_months": [
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr"
+    ],
+    "combined_text": "Ward's Lake leisure relaxation sightseeing tourism nature scenic landscape forest hills valley activities include boating, picnicking, park visit An artificial lake surrounded by a lush botanical garden and cobblestone pathways in the heart of Shillong. budget friendly low cost affordable winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "don_bosco_museum_115",
+    "name": "Don Bosco Museum",
+    "state": "Meghalaya",
+    "types": [
+      "cultural",
+      "historical"
+    ],
+    "activities": [
+      "museum visit",
+      "cultural tour"
+    ],
+    "description": "A major cultural center in Shillong providing a comprehensive overview of the indigenous cultures of Northeast India.",
+    "budget_min": 200,
+    "budget_max": 800,
+    "best_months": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
+    "combined_text": "Don Bosco Museum cultural heritage local traditions indigenous community historical heritage ancient monuments history archaeology activities include museum visit, cultural tour A major cultural center in Shillong providing a comprehensive overview of the indigenous cultures of Northeast India. budget friendly low cost affordable winter travel cold weather spring season pleasant weather monsoon season lush green autumn season mild weather"
+  },
+  {
+    "place_id": "kyllang_rock_116",
+    "name": "Kyllang Rock",
+    "state": "Meghalaya",
+    "types": [
+      "adventure",
+      "nature"
+    ],
+    "activities": [
+      "trekking",
+      "photography"
+    ],
+    "description": "A massive, dome-shaped granite rock offering panoramic views of the surrounding Khasi hills.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Kyllang Rock adventure activities outdoor exploration thrill nature scenic landscape forest hills valley activities include trekking, photography A massive, dome-shaped granite rock offering panoramic views of the surrounding Khasi hills. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "jakrem_117",
+    "name": "Jakrem Hot Springs",
+    "state": "Meghalaya",
+    "types": [
+      "nature",
+      "leisure"
+    ],
+    "activities": [
+      "hot spring",
+      "relaxation"
+    ],
+    "description": "Famous for its hot sulphur water springs, believed to possess curative medicinal properties.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "combined_text": "Jakrem Hot Springs nature scenic landscape forest hills valley leisure relaxation sightseeing tourism activities include hot spring, relaxation Famous for its hot sulphur water springs, believed to possess curative medicinal properties. winter travel cold weather autumn season mild weather"
+  },
+  {
+    "place_id": "dzuleke_118",
+    "name": "Dzuleke",
+    "state": "Nagaland",
+    "types": [
+      "eco",
+      "nature"
+    ],
+    "activities": [
+      "village tour",
+      "nature walk",
+      "camping"
+    ],
+    "description": "A pristine, eco-friendly village offering a secluded retreat amidst dense forests and clear streams.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Dzuleke eco-tourism sustainable travel green destination nature scenic landscape forest hills valley activities include village tour, nature walk, camping A pristine, eco-friendly village offering a secluded retreat amidst dense forests and clear streams. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "mount_pauna_119",
+    "name": "Mount Pauna",
+    "state": "Nagaland",
+    "types": [
+      "adventure",
+      "nature"
+    ],
+    "activities": [
+      "trekking",
+      "camping"
+    ],
+    "description": "The third highest peak in Nagaland, providing excellent trekking trails and spectacular views of the Himalayas.",
+    "budget_min": 1200,
+    "budget_max": 3500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Mar",
+      "Apr",
+      "May"
+    ],
+    "combined_text": "Mount Pauna adventure activities outdoor exploration thrill nature scenic landscape forest hills valley activities include trekking, camping The third highest peak in Nagaland, providing excellent trekking trails and spectacular views of the Himalayas. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "fakim_wildlife_120",
+    "name": "Fakim Wildlife Sanctuary",
+    "state": "Nagaland",
+    "types": [
+      "wildlife",
+      "eco"
+    ],
+    "activities": [
+      "wildlife spotting",
+      "trekking"
+    ],
+    "description": "A remote sanctuary housing rare species like the tragopan pheasant, slender loris, and leopards.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Fakim Wildlife Sanctuary wildlife sanctuary animal spotting nature reserve eco-tourism sustainable travel green destination activities include wildlife spotting, trekking A remote sanctuary housing rare species like the tragopan pheasant, slender loris, and leopards. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "chuchuyimlang_121",
+    "name": "Chuchuyimlang",
+    "state": "Nagaland",
+    "types": [
+      "cultural",
+      "eco"
+    ],
+    "activities": [
+      "village tour",
+      "festival"
+    ],
+    "description": "An Ao Naga village famous for its grand celebrations of the Moatsu festival and scenic hilltop views.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "May"
+    ],
+    "combined_text": "Chuchuyimlang cultural heritage local traditions indigenous community eco-tourism sustainable travel green destination activities include village tour, festival An Ao Naga village famous for its grand celebrations of the Moatsu festival and scenic hilltop views. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "moreh_122",
+    "name": "Moreh",
+    "state": "Manipur",
+    "types": [
+      "cultural",
+      "leisure"
+    ],
+    "activities": [
+      "shopping",
+      "cultural tour"
+    ],
+    "description": "A bustling commercial town on the Indo-Myanmar border, acting as a melting pot of cultures and trade.",
+    "budget_min": 1000,
+    "budget_max": 3500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Moreh cultural heritage local traditions indigenous community leisure relaxation sightseeing tourism activities include shopping, cultural tour A bustling commercial town on the Indo-Myanmar border, acting as a melting pot of cultures and trade. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "singda_dam_123",
+    "name": "Singda Dam",
+    "state": "Manipur",
+    "types": [
+      "nature",
+      "leisure"
+    ],
+    "activities": [
+      "picnicking",
+      "boating"
+    ],
+    "description": "The highest mud dam in the world, offering serene lake waters and surrounding green hills perfect for picnics.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Singda Dam nature scenic landscape forest hills valley leisure relaxation sightseeing tourism activities include picnicking, boating The highest mud dam in the world, offering serene lake waters and surrounding green hills perfect for picnics. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "willong_khullen_124",
+    "name": "Willong Khullen",
+    "state": "Manipur",
+    "types": [
+      "historical",
+      "cultural"
+    ],
+    "activities": [
+      "heritage tour",
+      "photography"
+    ],
+    "description": "Often called the Stonehenge of Manipur, featuring hundreds of mysterious, tall, erected stone monoliths.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Willong Khullen historical heritage ancient monuments history archaeology cultural heritage local traditions indigenous community activities include heritage tour, photography Often called the Stonehenge of Manipur, featuring hundreds of mysterious, tall, erected stone monoliths. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "langthabal_125",
+    "name": "Langthabal",
+    "state": "Manipur",
+    "types": [
+      "historical",
+      "leisure"
+    ],
+    "activities": [
+      "heritage tour",
+      "sightseeing"
+    ],
+    "description": "A small hill adorned with relics of an old, historic palace and temples built by Maharaja Gambhir Singh.",
+    "budget_min": 200,
+    "budget_max": 1000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Langthabal historical heritage ancient monuments history archaeology leisure relaxation sightseeing tourism activities include heritage tour, sightseeing A small hill adorned with relics of an old, historic palace and temples built by Maharaja Gambhir Singh. budget friendly low cost affordable winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "tam_dil_126",
+    "name": "Tam Dil Lake",
+    "state": "Mizoram",
+    "types": [
+      "nature",
+      "leisure"
+    ],
+    "activities": [
+      "boating",
+      "picnicking",
+      "fishing"
+    ],
+    "description": "A serene natural lake surrounded by tropical forests, popular for relaxation and a local prawn hatchery.",
+    "budget_min": 500,
+    "budget_max": 2000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Tam Dil Lake nature scenic landscape forest hills valley leisure relaxation sightseeing tourism activities include boating, picnicking, fishing A serene natural lake surrounded by tropical forests, popular for relaxation and a local prawn hatchery. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "palak_dil_127",
+    "name": "Palak Dil",
+    "state": "Mizoram",
+    "types": [
+      "nature",
+      "eco"
+    ],
+    "activities": [
+      "bird watching",
+      "boating"
+    ],
+    "description": "The largest lake in Mizoram, rich in biodiversity, legendary myths, and an ideal spot for bird watchers.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Palak Dil nature scenic landscape forest hills valley eco-tourism sustainable travel green destination activities include bird watching, boating The largest lake in Mizoram, rich in biodiversity, legendary myths, and an ideal spot for bird watchers. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "solomons_temple_128",
+    "name": "Solomon's Temple",
+    "state": "Mizoram",
+    "types": [
+      "religious",
+      "cultural"
+    ],
+    "activities": [
+      "religious tour",
+      "sightseeing"
+    ],
+    "description": "A magnificent, sprawling church structure in Aizawl made of white marble, uniquely designed by a local sect.",
+    "budget_min": 200,
+    "budget_max": 1000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Solomon's Temple religious pilgrimage sacred site temple monastery cultural heritage local traditions indigenous community activities include religious tour, sightseeing A magnificent, sprawling church structure in Aizawl made of white marble, uniquely designed by a local sect. budget friendly low cost affordable winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "murlen_129",
+    "name": "Murlen National Park",
+    "state": "Mizoram",
+    "types": [
+      "wildlife",
+      "nature"
+    ],
+    "activities": [
+      "trekking",
+      "wildlife spotting"
+    ],
+    "description": "Often compared to the Amazon basin, this park has such dense canopies that sunlight rarely penetrates.",
+    "budget_min": 1000,
+    "budget_max": 3000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Murlen National Park wildlife sanctuary animal spotting nature reserve nature scenic landscape forest hills valley activities include trekking, wildlife spotting Often compared to the Amazon basin, this park has such dense canopies that sunlight rarely penetrates. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "chabimura_130",
+    "name": "Chabimura",
+    "state": "Tripura",
+    "types": [
+      "historical",
+      "nature"
+    ],
+    "activities": [
+      "boating",
+      "heritage tour",
+      "photography"
+    ],
+    "description": "Famed for its massive, ancient rock carvings of Hindu deities on steep vertical walls along the Gomati River.",
+    "budget_min": 800,
+    "budget_max": 2500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Chabimura historical heritage ancient monuments history archaeology nature scenic landscape forest hills valley activities include boating, heritage tour, photography Famed for its massive, ancient rock carvings of Hindu deities on steep vertical walls along the Gomati River. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "pilak_131",
+    "name": "Pilak",
+    "state": "Tripura",
+    "types": [
+      "historical",
+      "religious"
+    ],
+    "activities": [
+      "archaeological tour",
+      "heritage tour"
+    ],
+    "description": "An archaeological site holding 8th-12th century artifacts that signify the peaceful coexistence of Hinduism and Buddhism.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Pilak historical heritage ancient monuments history archaeology religious pilgrimage sacred site temple monastery activities include archaeological tour, heritage tour An archaeological site holding 8th-12th century artifacts that signify the peaceful coexistence of Hinduism and Buddhism. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "trishna_wildlife_132",
+    "name": "Trishna Wildlife Sanctuary",
+    "state": "Tripura",
+    "types": [
+      "wildlife",
+      "nature"
+    ],
+    "activities": [
+      "safari",
+      "bird watching"
+    ],
+    "description": "A protected area particularly known for its sizeable population of Indian Gaur (bison) and diverse primates.",
+    "budget_min": 800,
+    "budget_max": 2000,
+    "best_months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Trishna Wildlife Sanctuary wildlife sanctuary animal spotting nature reserve nature scenic landscape forest hills valley activities include safari, bird watching A protected area particularly known for its sizeable population of Indian Gaur (bison) and diverse primates. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "kamala_sagar_133",
+    "name": "Kamala Sagar",
+    "state": "Tripura",
+    "types": [
+      "religious",
+      "leisure"
+    ],
+    "activities": [
+      "religious tour",
+      "sightseeing"
+    ],
+    "description": "An expansive artificial lake abutting a prominent Kali temple near the Bangladesh border.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Kamala Sagar religious pilgrimage sacred site temple monastery leisure relaxation sightseeing tourism activities include religious tour, sightseeing An expansive artificial lake abutting a prominent Kali temple near the Bangladesh border. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "goechala_134",
+    "name": "Goechala Trek",
+    "state": "Sikkim",
+    "types": [
+      "adventure",
+      "nature"
+    ],
+    "activities": [
+      "trekking",
+      "camping",
+      "photography"
+    ],
+    "description": "One of the most challenging and rewarding treks in India, leading right to the base of Mt. Kanchenjunga.",
+    "budget_min": 5000,
+    "budget_max": 15000,
+    "best_months": [
+      "Apr",
+      "May",
+      "Oct",
+      "Nov"
+    ],
+    "combined_text": "Goechala Trek adventure activities outdoor exploration thrill nature scenic landscape forest hills valley activities include trekking, camping, photography One of the most challenging and rewarding treks in India, leading right to the base of Mt. Kanchenjunga. premium experience higher budget spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "thangu_valley_135",
+    "name": "Thangu Valley",
+    "state": "Sikkim",
+    "types": [
+      "nature",
+      "adventure"
+    ],
+    "activities": [
+      "sightseeing",
+      "photography"
+    ],
+    "description": "A picturesque, high-altitude alpine valley blanketed with snow in winters and wildflowers in spring.",
+    "budget_min": 1500,
+    "budget_max": 4000,
+    "best_months": [
+      "Mar",
+      "Apr",
+      "May",
+      "Oct",
+      "Nov"
+    ],
+    "combined_text": "Thangu Valley nature scenic landscape forest hills valley adventure activities outdoor exploration thrill activities include sightseeing, photography A picturesque, high-altitude alpine valley blanketed with snow in winters and wildflowers in spring. spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "cholamu_lake_136",
+    "name": "Cholamu Lake",
+    "state": "Sikkim",
+    "types": [
+      "nature",
+      "adventure"
+    ],
+    "activities": [
+      "sightseeing",
+      "off-roading"
+    ],
+    "description": "One of the highest lakes in the world, sitting just miles from the Tibet border with icy, crystal-clear waters.",
+    "budget_min": 2000,
+    "budget_max": 5000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Mar",
+      "Apr",
+      "May"
+    ],
+    "combined_text": "Cholamu Lake nature scenic landscape forest hills valley adventure activities outdoor exploration thrill activities include sightseeing, off-roading One of the highest lakes in the world, sitting just miles from the Tibet border with icy, crystal-clear waters. spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "enchey_monastery_137",
+    "name": "Enchey Monastery",
+    "state": "Sikkim",
+    "types": [
+      "religious",
+      "cultural"
+    ],
+    "activities": [
+      "religious tour",
+      "meditation"
+    ],
+    "description": "An important seat of the Nyingma order, nestled on a ridge above Gangtok providing calm and spiritual solace.",
+    "budget_min": 200,
+    "budget_max": 1000,
+    "best_months": [
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May"
+    ],
+    "combined_text": "Enchey Monastery religious pilgrimage sacred site temple monastery cultural heritage local traditions indigenous community activities include religious tour, meditation An important seat of the Nyingma order, nestled on a ridge above Gangtok providing calm and spiritual solace. budget friendly low cost affordable winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "kakochang_falls_138",
+    "name": "Kakochang Waterfalls",
+    "state": "Assam",
+    "types": [
+      "nature",
+      "leisure"
+    ],
+    "activities": [
+      "trekking",
+      "photography",
+      "swimming"
+    ],
+    "description": "A magnificent waterfall cascading amidst tea gardens and rubber plantations near Kaziranga.",
+    "budget_min": 500,
+    "budget_max": 1500,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Kakochang Waterfalls nature scenic landscape forest hills valley leisure relaxation sightseeing tourism activities include trekking, photography, swimming A magnificent waterfall cascading amidst tea gardens and rubber plantations near Kaziranga. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "panimoor_falls_139",
+    "name": "Panimoor Falls",
+    "state": "Assam",
+    "types": [
+      "nature",
+      "adventure"
+    ],
+    "activities": [
+      "sightseeing",
+      "photography"
+    ],
+    "description": "A fierce, roaring waterfall formed by the Kopili river, creating an awe-inspiring natural spectacle.",
+    "budget_min": 500,
+    "budget_max": 2000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Panimoor Falls nature scenic landscape forest hills valley adventure activities outdoor exploration thrill activities include sightseeing, photography A fierce, roaring waterfall formed by the Kopili river, creating an awe-inspiring natural spectacle. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  },
+  {
+    "place_id": "bhupen_hazarika_setu_140",
+    "name": "Bhupen Hazarika Setu",
+    "state": "Assam",
+    "types": [
+      "infrastructure",
+      "leisure"
+    ],
+    "activities": [
+      "road trip",
+      "sightseeing",
+      "photography"
+    ],
+    "description": "Also known as the Dhola-Sadiya Bridge, it is the longest bridge in India over water, spanning the mighty Lohit river.",
+    "budget_min": 500,
+    "budget_max": 2000,
+    "best_months": [
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar"
+    ],
+    "combined_text": "Bhupen Hazarika Setu infrastructure leisure relaxation sightseeing tourism activities include road trip, sightseeing, photography Also known as the Dhola-Sadiya Bridge, it is the longest bridge in India over water, spanning the mighty Lohit river. winter travel cold weather spring season pleasant weather autumn season mild weather"
+  }
+]
