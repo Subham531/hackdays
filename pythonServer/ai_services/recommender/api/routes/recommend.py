@@ -9,6 +9,7 @@ from recommender.utils.preprocessing import load_internal_places
 
 router = APIRouter()
 
+
 @router.post("/recommend", response_model=RecommendResponse)
 def recommend(req: RecommendRequest):
     try:
